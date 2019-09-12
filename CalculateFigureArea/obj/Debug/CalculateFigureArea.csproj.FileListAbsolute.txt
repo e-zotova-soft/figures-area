@@ -1,0 +1,10 @@
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\bin\Debug\CalculateFigureArea.exe.config
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\bin\Debug\CalculateFigureArea.exe
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\bin\Debug\CalculateFigureArea.pdb
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\bin\Debug\CalculateArea.dll
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\bin\Debug\CalculateArea.pdb
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\obj\Debug\CalculateFigureArea.csprojAssemblyReference.cache
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\obj\Debug\CalculateFigureArea.csproj.CoreCompileInputs.cache
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\obj\Debug\CalculateFigureArea.csproj.CopyComplete
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\obj\Debug\CalculateFigureArea.exe
+F:\Работа\Площадь фигуры\CalculateArea\CalculateFigureArea\obj\Debug\CalculateFigureArea.pdb

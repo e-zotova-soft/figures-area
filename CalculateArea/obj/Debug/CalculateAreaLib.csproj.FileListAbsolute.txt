@@ -1,0 +1,6 @@
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\bin\Debug\CalculateArea.dll
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\bin\Debug\CalculateArea.pdb
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\obj\Debug\CalculateAreaLib.csproj.CoreCompileInputs.cache
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\obj\Debug\CalculateArea.dll
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\obj\Debug\CalculateArea.pdb
+F:\Работа\Площадь фигуры\CalculateArea\CalculateArea\obj\Debug\CalculateAreaLib.csprojAssemblyReference.cache
